@@ -1,4 +1,5 @@
-# calamitydetect
+# project-liaise
+
 The most threatening part of managing any disaster is the drop in communication.” 1 in 4 relief packets does not reach the intended user due to the lack of communication between the disaster victim and the contributor.”
 
 A lot of resources are allocated by the Government to mitigate the crisis but a lot of time, effort and money is wasted in identifying the victims and the resources allotted may not necessarily be the most useful to the victim. Therefore establishing communication between the victims and the crisis management body is extremely vital. At the time of a natural disaster, the entire communication network takes a hit, thereby hindering the rescue efforts. A communication system in the form of a phone application that works “Off the Grid” can replace the traditional system. 
